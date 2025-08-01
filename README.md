@@ -17,17 +17,16 @@ Ce projet présente un robot autonome basé sur **Arduino Uno** capable d'évite
 
 ##  Matériel Nécessaire
 
-| Composant              | Quantité |
-|------------------------|----------|
-| Arduino Uno            | 1        |
-| Module L298N           | 1        |
-| Moteurs DC avec roues  | 2        |
-| Roue folle             | 1        |
-| Capteur HC-SR04        | 1        |
-| Servo moteur SG90      | 1        |
+| Composant                        | Quantité |
+|----------------------------------|----------|
+| Arduino Uno                      | 1        |
+| Module L298N                     | 1        |
+| Moteurs DC avec roues            | 4        |
+| Capteur HC-SR04                  | 1        |
+| Servo moteur SG90                | 1        |
 | Pack de batteries (7.4V ou 6xAA) | 1        |
-| Condensateur 470µF–1000µF (pour servo) | 1        |
-| Breadboard, câbles     | -        |
+ |
+| Jumpers                                | -        |
 
 ---
 
