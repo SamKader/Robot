@@ -1,3 +1,4 @@
+
 #  Robot Éviteur d'Obstacles – Arduino Uno
 
 Ce projet présente un robot autonome basé sur **Arduino Uno** capable d'éviter des obstacles grâce à un **capteur ultrason HC-SR04**, un **servo moteur SG90** pour analyser l'espace latéralement, et un **pont en H L298N** pour contrôler deux moteurs à courant continu.
@@ -45,7 +46,6 @@ Ce projet présente un robot autonome basé sur **Arduino Uno** capable d'évite
 - **VCC (idéalement séparé)** : 5V régulé + Condensateur
 - **GND** : commun avec Arduino
 
----
 
 ## Téléversement du code
 
@@ -61,7 +61,7 @@ Ce projet présente un robot autonome basé sur **Arduino Uno** capable d'évite
 
 4. **Téléverser** le code et ouvrir le **moniteur série (9600 bauds)** pour voir les messages.
 
----
+
 
 ##  Astuces
 
@@ -89,3 +89,5 @@ Ce projet présente un robot autonome basé sur **Arduino Uno** capable d'évite
 ##  Licence
 
 Projet open-source sous licence MIT – à modifier et adapter librement.
+
+
